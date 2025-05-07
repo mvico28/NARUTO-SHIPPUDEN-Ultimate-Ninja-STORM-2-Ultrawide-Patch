@@ -11,11 +11,7 @@ This software is a free modification (patch) for the game NARUTO: Ultimate Ninja
 The game has a very strong 16/9 limit. This often affects overlays and designs, as well as 2D textures. In 32:9 you will see vignette effects more often.
 
 Ultrawide support:
-Cutscenes: 98.5%
-3D areas and battle stages: 100%
-Boss battles: 80%
-Most 2D areas with custom pillarbox.
-Many UI elements have been repositioned
+Cutscenes: 98.5% // 3D areas and battle stages: 100% // Boss battles: 80% // Most 2D areas with custom pillarbox. // Many UI elements have been repositioned.
 
 32:9
 ![Screenshot 2025-04-27 181916](https://github.com/user-attachments/assets/2f4efc0b-98c8-4fa6-aeac-9d67c28d76b7)
