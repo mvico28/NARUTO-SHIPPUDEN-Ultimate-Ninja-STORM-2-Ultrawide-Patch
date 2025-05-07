@@ -22,3 +22,16 @@ Cutscenes: 98.5% // 3D areas and battle stages: 100% // Boss battles: 80% // Mos
 ![Screenshot 2025-05-07 013053](https://github.com/user-attachments/assets/d4533f11-341c-4834-b16b-a6e29a15d85f)
 ![Screenshot 2025-05-07 152505](https://github.com/user-attachments/assets/7abbdc7d-9d0e-47da-8448-991b8d43a265)
 ![Screenshot 2025-05-07 105357](https://github.com/user-attachments/assets/d8e30e99-c3d2-41d4-9c84-042c4997b3bd)
+
+**How to install**
+
+Go to the game's installation directory and open the config.ini. Change **aspectx** and **aspecty** to **0** and write your resolution in **width** and **height**.
+Extract the .zip file to the game's installation directory.
+
+**How to uninstall**
+
+Simply delete all files from the directory.
+
+Credits 
+
+[ThirteenAG](https://github.com/ThirteenAG)
