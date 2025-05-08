@@ -2,7 +2,7 @@
 
 **Disclaimer**
 
-This software is a free modification (patch) for the game NARUTO SHIPPUDEN: Ultimate Ninja STORM 2 and is not affiliated with or endorsed by the Game developers or publishers. It is an independent project created for the purpose of enhancing the gaming experience. This project does not modify the original game files. This patch only changes the graphical representation of the game and not any values ​​that affect player stats such as health points etc.
+This software is a modification for the game NARUTO SHIPPUDEN: Ultimate Ninja STORM 2 and is not affiliated with or endorsed by the Game developers or publishers. It is an independent project created for the purpose of enhancing the gaming experience. This project does not modify the original game files. This patch only changes the graphical representation and not any values ​​that affect player stats such as health points etc.
 
 **I don't know what will happen if you use this in Online Battle Mode and I am not responsible for any bans.**
 
