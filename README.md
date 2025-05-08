@@ -49,7 +49,7 @@ Extract the .zip file to the game's installation directory.
 
 **How to uninstall**
 
-Simply delete all files from the directory.
+Delete all files from the directory.
 
 Credits 
 
