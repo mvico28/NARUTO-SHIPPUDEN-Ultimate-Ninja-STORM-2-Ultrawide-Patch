@@ -44,7 +44,7 @@ Other adjustments for ultrawide:
 
 **How to install**
 
-Go to the game's installation directory and open the config.ini. Change **aspectx** and **aspecty** to **0** and write your resolution in **width** and **height**.
+Go to the game's installation directory and open the config.ini. Change **aspectx** and **aspecty** to **0** and write your resolution in **width** and **height**, then click **save**.
 Extract the .zip file to the game's installation directory.
 
 **How to uninstall**
